@@ -4,7 +4,7 @@
       <i class="iconfont reco-theme"></i>
       <a target="blank" href="https://gitee.com/zlhy7/zlhyBlog">
         Powered by
-        <a href="https://gitee.com/zlhy7/zlhyBlog"><b>znote</b></a>
+        <a href="https://gitee.com/zlhy7/zlhyBlog"><b>zlhyblog</b></a>
       </a>
     </span>
     <span v-if="$themeConfig.record">

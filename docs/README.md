@@ -16,11 +16,11 @@ actionText: '开启进阶之路'
 actionLink: /views/
 features:
 - title: 
-  details: 把所有的不快给昨天
+  details: 多尝试后再问人
 - title: 
-  details: 把所有的努力给今天
+  details: 多动手，多总结
 - title: 
-  details: 把所有的希望给明天
+  details: 将成功的东西整理成册就能永远成功
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 

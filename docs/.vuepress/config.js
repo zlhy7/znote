@@ -6,8 +6,8 @@ const plugins = require('./config/plugins/')
 module.exports = {
   // dest: 'gb-pages',//打包目录
   base: '/zlhyblog/',
-  title: "znote",
-  description: '荷尽已无擎雨盖，菊残犹有傲霜枝。',
+  title: "上善若水的成长之路",
+  description: '上善若水。水善利万物而不争，处众人之所恶，故几于道。',
   head: [
     ['link', {
       rel: 'icon',
@@ -71,7 +71,7 @@ module.exports = {
     lastUpdated: true,
     lastUpdated: '上次更新', // string | boolean
     // 作者
-    author: 'zhāngpéngjūn',
+    author: '沙福林',
     // 备案号
     record: '京ICP备17067634号-1',
     // 项目开始时间

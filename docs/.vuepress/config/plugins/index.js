@@ -99,10 +99,10 @@ module.exports = [
         }
     }],
 
-    ['copyright',{
-        minLength: 10,
-        clipboardComponent: path.resolve(__dirname, '../../components/Copyright.vue')
-    },],
+//    ['copyright',{
+//        minLength: 10,
+//        clipboardComponent: path.resolve(__dirname, '../../components/Copyright.vue')
+//    },],
 
     ['@vuepress/last-updated', { // "上次更新"时间格式
         transformer: (timestamp, lang) => {
