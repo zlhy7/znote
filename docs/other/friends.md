@@ -29,8 +29,8 @@ reward: true
 #  textColor: '#7B2532'
 - name: znote
   desc: 荷尽已无擎雨盖，菊残犹有傲霜枝。
-  avatar: https://zpj80231.gitee.io/znote/vuepress/head-fish.jpg
-  link: https://zpj80231.gitee.io/znote/
+  avatar: http://zlhy7.gitee.io/zlhyblog/vuepress/head-fish.jpg
+  link: http://zlhy7.gitee.io/zlhyblog/
   bgColor: '#FCDBA0'
   textColor: '#A05F2C'
 #- name: 有梦想的咸鱼
@@ -98,8 +98,8 @@ reward: true
 ```yaml
 - name: znote
   desc: 荷尽已无擎雨盖，菊残犹有傲霜枝
-  avatar: https://zpj80231.gitee.io/znote/vuepress/head-fish.jpg
-  link: https://zpj80231.gitee.io/znote/
+  avatar: http://zlhy7.gitee.io/zlhyblog/vuepress/head-fish.jpg
+  link: http://zlhy7.gitee.io/zlhyblog/
   bgColor: '#FCDBA0'
   textColor: '#A05F2C'
 ```
