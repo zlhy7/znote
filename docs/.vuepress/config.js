@@ -5,7 +5,7 @@ const plugins = require('./config/plugins/')
 
 module.exports = {
   // dest: 'gb-pages',//打包目录
-  base: '/zlhyblog/',
+  base: '/',
   title: "上善若水的成长之路",
   description: '上善若水。水善利万物而不争，处众人之所恶，故几于道。',
   head: [
@@ -75,7 +75,7 @@ module.exports = {
     // 备案号
     record: '京ICP备17067634号-1',
     // 项目开始时间
-    startYear: '2019',
+    startYear: '2022',
     //git地址
     repo: 'zlhy7/zlhyblog',
     // 如果你的文档不在仓库的根部
