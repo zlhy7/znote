@@ -120,7 +120,7 @@ top -Hp 2860
 输出如下：
 
 
-![img](/znote/img/backend/ThreadTopCpuList.png)
+![img](/zlhyblog/img/backend/ThreadTopCpuList.png)
 
 TIME列就是各个Java线程耗费的CPU时间，显然CPU时间最长的是ID为2968的线程，用
 

@@ -46,8 +46,8 @@ isShowComments: true
 
 ## 社区
 
-- 博客：[https://zpj80231.gitee.io/znote](https://zpj80231.gitee.io/znote)
-- Github：[https://github.com/zpj80231](https://github.com/zpj80231)
+- 博客：[https://zlhy7.gitee.io/zlhyblog](https://zlhy7.gitee.io/zlhyblog)
+- Github：[https://github.com/zlhy7](https://github.com/zlhy7)
 
 ## 部落
 
@@ -56,12 +56,12 @@ isShowComments: true
 - <i class="zi zi_fly" zico="友链"></i> 友链：欢迎入队组队🏆 --> 《[ Let's go! ](/other/friends.html)》
 ::: cardImgList 2
 ```yaml
-- img: /znote/img/other/766d39ee-fbf0-329e-8973-45e90625b579.jpg
-  link: /znote/other/friends.html
+- img: /zlhyblog/img/other/766d39ee-fbf0-329e-8973-45e90625b579.jpg
+  link: /zlhyblog/other/friends.html
   name: For you
   desc: 你若盛开，清风自来。
-- img: /znote/img/other/c33a5027-85d3-3eb4-a785-dd404f674baa.jpg
-  link: /znote/other/friends.html
+- img: /zlhyblog/img/other/c33a5027-85d3-3eb4-a785-dd404f674baa.jpg
+  link: /zlhyblog/other/friends.html
   name: To me
   desc: 心若浮沉，浅笑安然。
 ```

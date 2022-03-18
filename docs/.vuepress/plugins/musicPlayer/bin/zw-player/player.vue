@@ -193,7 +193,7 @@ export default {
             if(path != '/' ) return
             let flag = sessionStorage.getItem('zk');
             if(flag == null) {
-                window.location.href=('/znote/view/index.html')
+                window.location.href=('/zlhyblog/view/index.html')
                 sessionStorage.setItem('zk', 'zv');
             }
         }

@@ -22,7 +22,7 @@ isShowComments: false
 
 - 事前事中事后
 
-![](/znote/img/backend/rabbitmq/mq001.png)
+![](/zlhyblog/img/backend/rabbitmq/mq001.png)
 
 ### 顺序消费
 
@@ -46,7 +46,7 @@ isShowComments: false
 
 	- 接口幂等（可以用redis做） + 唯一索引。（如下图引用傲丙强校验代码）
 	
-	![](/znote/img/backend/rabbitmq/mq002.png)
+	![](/zlhyblog/img/backend/rabbitmq/mq002.png)
 
 ### 消息补偿机制
 
@@ -117,4 +117,4 @@ isShowComments: false
 
 订单和支付等
 
-![](/znote/img/backend/rabbitmq/mq003.png)
+![](/zlhyblog/img/backend/rabbitmq/mq003.png)

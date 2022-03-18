@@ -27,9 +27,9 @@ isShowComments: false
 
 ### 生成图示
 
-![](/znote/img/backend/itext/pdf2.png)
+![](/zlhyblog/img/backend/itext/pdf2.png)
 
-![](/znote/img/backend/itext/pdf3.png)
+![](/zlhyblog/img/backend/itext/pdf3.png)
 
 - 图示这个比较复杂，具体代码可见git或联系我
 

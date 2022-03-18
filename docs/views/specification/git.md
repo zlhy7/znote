@@ -11,7 +11,7 @@ categories:
 isShowComments: true
 ---
 
-![](/znote/img/other/git_001.png)
+![](/zlhyblog/img/other/git_001.png)
 
 <!-- more -->
 

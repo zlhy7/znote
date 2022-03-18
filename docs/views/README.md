@@ -102,7 +102,7 @@ isShowComments: true
 			return {
                 changeTime: '2000',
 				index: 2,
-				imgSrc: '/znote/view/比心1.png',
+				imgSrc: '/zlhyblog/view/比心1.png',
 				active: 'active'
 			}
 		},
@@ -122,7 +122,7 @@ isShowComments: true
 					}else {
 						this.active="active";
 					}
-					this.imgSrc = '/znote/view/' + picList[Math.floor(Math.random() * picList.length)]
+					this.imgSrc = '/zlhyblog/view/' + picList[Math.floor(Math.random() * picList.length)]
 
 				}, 5000)
 			},

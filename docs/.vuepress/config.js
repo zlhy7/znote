@@ -77,7 +77,7 @@ module.exports = {
     // 项目开始时间
     startYear: '2019',
     //git地址
-    repo: 'zpj80231/znote',
+    repo: 'zlhy7/zlhyblog',
     // 如果你的文档不在仓库的根部
     docsDir: 'docs',
     // 可选，默认为 master

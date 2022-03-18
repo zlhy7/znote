@@ -27,7 +27,7 @@ isShowComments: false
 
 ### 1. 去[ theme-example ]( https://vuepress-theme-reco.recoluan.com/views/other/theme-example.html )，找个合心意的博客 clone
 
-- 我就以我的下载我的为例：`git clone https://github.com/zpj80231/znote.git`
+- 我就以我的下载我的为例：`git clone https://github.com/zlhy7/zlhyblog.git`
 
 ### 2. 把项目下载之后，修改 package.json
 
@@ -88,7 +88,7 @@ Dev
 
   在浏览器地址输入：` http://localhost:8080 `即可看到界面：
 
-  ![](/znote/vuepress/znote.png)
+  ![](/zlhyblog/vuepress/znote.png)
 
 - 如果想直接使用 .html文件的话将 .html文件放在 .vuepress/public 目录下即可（需自己配置引用路径）。
 

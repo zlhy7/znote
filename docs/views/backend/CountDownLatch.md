@@ -44,7 +44,7 @@ isShowComments: false
 
 CountDownLatch 类图如下:
 
-![CountDownLatch](/znote/img/backend/CountDownLatch.png)
+![CountDownLatch](/zlhyblog/img/backend/CountDownLatch.png)
 
 从图中可以看出，CountDownLatch 内部依赖 Sync 实现，而 Sync 继承自 AQS。CountDownLatch 仅提供了一个构造方法：
 

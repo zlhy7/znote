@@ -80,12 +80,12 @@ reward: true
 
 ::: cardImgList 2
 ```yaml
-- img: /znote/img/other/5666c8e4-867a-3356-9708-6ba918e87853.jpg
-  link: /znote/other/friends.html
+- img: /zlhyblog/img/other/5666c8e4-867a-3356-9708-6ba918e87853.jpg
+  link: /zlhyblog/other/friends.html
   name: For you
   desc: 你若盛开，清风自来。
-- img: /znote/img/other/4ec4e5f0-947b-3abe-9e8b-47bad5b8cf1c.jpg
-  link: /znote/about/index.html
+- img: /zlhyblog/img/other/4ec4e5f0-947b-3abe-9e8b-47bad5b8cf1c.jpg
+  link: /zlhyblog/about/index.html
   name: To me
   desc: 心若浮沉，浅笑安然。
 ```
