@@ -1,5 +1,6 @@
 import Notification from './Notification.vue'
 
 export default ({ Vue }) => {
-  Vue.component('Notification', Notification)
+//  //浮窗广告
+//  Vue.component('Notification', Notification)
 }
