@@ -91,7 +91,6 @@ module.exports = {
             children: [
                 'essay/20190928',
                 'essay/20191109',
-                'essay/20191116',
                 'essay/20191130',
                 'essay/20200227',
                 'essay/20200301',
