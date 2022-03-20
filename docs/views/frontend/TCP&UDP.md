@@ -101,7 +101,7 @@ HTTP 是存粹的文本协议，它是规定了使用 TCP 协议来传输文本�
 
 ### HTTP 协议格式
 
-![http-image](/zlhyblog/img/other/http001.jpg)
+![http-image](/znote/img/other/http001.jpg)
 
 ### HTTP Method 
 

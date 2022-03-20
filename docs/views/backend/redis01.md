@@ -409,8 +409,8 @@ public class RedisServiceImpl implements RedisService {
 
 - 查询：
 
-![](/zlhyblog/img/backend/redis/缓存查询.png)
+![](/znote/img/backend/redis/缓存查询.png)
 
 - 更新：一般是先跟新数据库，再删除缓存（或延时双删）
 
-![](/zlhyblog/img/backend/redis/缓存更新.png)
+![](/znote/img/backend/redis/缓存更新.png)

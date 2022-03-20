@@ -94,7 +94,7 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
     position: fixed;
     top: -120%;
     left: -1%;
-    background: url(https://img.shields.io/github/stars/zlhy7/zlhyblog?style=social) right,url(https://img.shields.io/github/forks/zlhy7/zlhyblog?style=social) right;
+    background: url(https://img.shields.io/github/stars/zlhy7/znote?style=social) right,url(https://img.shields.io/github/forks/zlhy7/znote?style=social) right;
     background-repeat: no-repeat, no-repeat;
     background-position-y: 20%, 20%;
     background-position-x: 86%, 98%;

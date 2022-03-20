@@ -21,7 +21,7 @@ API网关和API的区别主要在于一个是聚合工具，一个是实际干�
 
 ## 何为API网关
 
-![](/zlhyblog/img/backend/14814543-ff52ad16128922f6.jpg)
+![](/znote/img/backend/14814543-ff52ad16128922f6.jpg)
 
 根据目前所在的自研网关架构项目组，简单点举个例子：
 
@@ -54,7 +54,7 @@ API网关处于接入层角色，具有承上启下的作用，承担着报文�
 
 内部网关架构不宜分享，但以开源的 [Soul](https://gitee.com/mirrors/soul) 网关为例：
 
-![](/zlhyblog/img/backend/21182623_YAbx.png)
+![](/znote/img/backend/21182623_YAbx.png)
 
 涵盖有：Admin管理中心、zk配置中心和Gateway三部分组成。
 
@@ -73,7 +73,7 @@ API网关基本请求流程：
 3. API网关下发SDK和公私钥、APP_ID等文件，客户方引入SDK加密加签调用相应接口
 4. 给客户方开通权限，客户方联调，上送请求报文，请求报文流转于Gateway中
 
-![](/zlhyblog/img/backend/21182624_Ar1G.png)
+![](/znote/img/backend/21182624_Ar1G.png)
 
 Gateway基于Netty Pipeline Handler的处理模式，以 **过滤链 + 插件化** 的方式将请求流转于Gateway，进一步对请求进行解密验签、参数转换、限流熔断、权限过滤等不同功能处理。
 

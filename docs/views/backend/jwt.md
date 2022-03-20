@@ -60,7 +60,7 @@ HMACSHA256(
 
 ### jwt实例
 
-![](/zlhyblog/img/backend/jwt.png)
+![](/znote/img/backend/jwt.png)
 
 - 最终的JWT串
 

@@ -9,4 +9,4 @@ git add -A
 echo 提交到本地仓库
 git commit -m 'deploy'
 echo 推送至远端
-git push -f https://gitee.com/zlhy7/zlhyBlog.git master:gh-pages
+git push -f git@gitee.com:zlhy7/znote.git master:gh-pages

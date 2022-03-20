@@ -22,8 +22,8 @@ sticky: 1
 # znote
 
 <p align="center">
-   <a href="https://zpj80231.github.io/zlhyblog/views/specification/guide.html" target="_blank"><img alt="Read the Docs" src="https://img.shields.io/badge/Docs-GetStarted-red?style=flat-square&logo=buffer"></a>
-   <a href="https://github.com/zlhy7/zlhyblog" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-znote-d05577?style=flat-square&logo=github"></a>
+   <a href="https://zpj80231.github.io/znote/views/specification/guide.html" target="_blank"><img alt="Read the Docs" src="https://img.shields.io/badge/Docs-GetStarted-red?style=flat-square&logo=buffer"></a>
+   <a href="https://github.com/zlhy7/znote" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-znote-d05577?style=flat-square&logo=github"></a>
    <br/>
    <a href="https://github.com/vuejs/vuepress" target="_blank"><img alt="VuePress" src="https://img.shields.io/badge/VuePress-build-05a564?style=flat-square&logo=vue.js"></a>
    <a href="https://github.com/vuepress-reco/vuepress-theme-reco" target="_blank"><img alt="Reco" src="https://img.shields.io/badge/Reco-theme-137cbd?style=flat-square&logo=vue.js"></a>
@@ -31,7 +31,7 @@ sticky: 1
    <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC4.0 BY-SA" src="https://img.shields.io/static/v1?label=CC%20%204.0&message=BY-SA&color=yellow&style=flat-square"></a>
    <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-MIT-orange?style=flat-square"></a>
    <br/>
-   <a href="http://zlhy7.gitee.io/zlhyblog/"><img alt="znote site" src="https://img.shields.io/badge/znote-pages-a06bc1?style=flat-square&logo=zulip"></a>
+   <a href="http://zlhy7.gitee.io/znote/"><img alt="znote site" src="https://img.shields.io/badge/znote-pages-a06bc1?style=flat-square&logo=zulip"></a>
 </p>
 
 > 积丝成寸，积寸成尺；寸尺水已，遂成丈匹。
@@ -41,9 +41,9 @@ sticky: 1
 
 - 已全局适配`手机模式`和`暗黑模式（iOS自适应）`请自行体验
 
-- 国内访问：[http://zlhy7.gitee.io/zlhyblog/](http://zlhy7.gitee.io/zlhyblog/) 速度加载会快一点
+- 国内访问：[http://zlhy7.gitee.io/znote/](http://zlhy7.gitee.io/znote/) 速度加载会快一点
 
-![](/zlhyblog/vuepress/znote.png)
+![](/znote/vuepress/znote.png)
 
 ## 项目介绍
 
@@ -83,7 +83,7 @@ Dev
 
 - 在项目文件夹下执行命令，加载依赖：`npm install`
 - 在项目文件夹下执行命令，运行项目：`npm run docs:dev`
-- 待启动成功后打开地址即可：[http://localhost:8080/zlhyblog/](http://localhost:8080/zlhyblog/)
+- 待启动成功后打开地址即可：[http://localhost:8080/znote/](http://localhost:8080/znote/)
 
 ## 开始编写markdown
 

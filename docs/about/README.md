@@ -7,7 +7,7 @@ isShowComments: true
 
 <p align="center"><img style="border-radius:41%;pointer-events:none;transform: scale(0.9);" :src="$withBase('/vuepress/head-fish.jpg')" alt="znote-head" width=160></p>
 <p align="center" style="margin-top: -15px;">
-  <a href="http://zlhy7.gitee.io/zlhyblog/" class="zi zi_textbook"></a> 
+  <a href="http://zlhy7.gitee.io/znote/" class="zi zi_textbook"></a> 
   <a href="mailto:zpj80231@163.com" class="zi zi_envelope"></a> 
   <a href="https://github.com/zpj80231" class="zi zi_tmGithub"></a>
   <a href="https://twitter.com/zpj80231" class="zi zi_tmTwitter"></a>
@@ -19,7 +19,7 @@ isShowComments: true
 世界上最远的距离，是我在 if 里你在 else 里，虽然经常一起出现，但却永不结伴执行。
 
 ::: right
-来自 [ZNOTE](http://zlhy7.gitee.io/zlhyblog/)
+来自 [ZNOTE](http://zlhy7.gitee.io/znote/)
 :::
 
 ## 一句话
@@ -46,7 +46,7 @@ isShowComments: true
 
 ## 社区
 
-- 博客：[https://zlhy7.gitee.io/zlhyblog](https://zlhy7.gitee.io/zlhyblog)
+- 博客：[https://zlhy7.gitee.io/znote](https://zlhy7.gitee.io/znote)
 - Github：[https://github.com/zlhy7](https://github.com/zlhy7)
 
 ## 部落
@@ -56,12 +56,12 @@ isShowComments: true
 - <i class="zi zi_fly" zico="友链"></i> 友链：欢迎入队组队🏆 --> 《[ Let's go! ](/other/friends.html)》
 ::: cardImgList 2
 ```yaml
-- img: /zlhyblog/img/other/766d39ee-fbf0-329e-8973-45e90625b579.jpg
-  link: /zlhyblog/other/friends.html
+- img: /znote/img/other/766d39ee-fbf0-329e-8973-45e90625b579.jpg
+  link: /znote/other/friends.html
   name: For you
   desc: 你若盛开，清风自来。
-- img: /zlhyblog/img/other/c33a5027-85d3-3eb4-a785-dd404f674baa.jpg
-  link: /zlhyblog/other/friends.html
+- img: /znote/img/other/c33a5027-85d3-3eb4-a785-dd404f674baa.jpg
+  link: /znote/other/friends.html
   name: To me
   desc: 心若浮沉，浅笑安然。
 ```

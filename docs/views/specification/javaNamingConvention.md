@@ -534,7 +534,7 @@ public class UserServiceTest{
 
 下面将通过一张图来理解上述几种O之间相互转换的关系：
 
-![图片](/zlhyblog/img/backend/javaNamingConvention01.png)
+![图片](/znote/img/backend/javaNamingConvention01.png)
 
 <p style="text-align: right;font-size: 10px;font-style: italic;">
 来源：https://www.ramostear.com/blog/2020/03/20/2vxdaqjq.html
