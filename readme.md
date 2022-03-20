@@ -98,4 +98,6 @@ publish: true //文章是否发布
 
 - I am the text...
 ```
-
+# 个人总结
+1. 写完笔记记得在导航栏添加下
+docs/.vuepress/config/sidebar/index.js

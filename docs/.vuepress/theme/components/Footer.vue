@@ -2,9 +2,9 @@
   <div class="footer-wrapper">
     <span>
       <i class="iconfont reco-theme"></i>
-      <a target="blank" href="https://gitee.com/zlhy7/zlhyBlog">
+      <a target="blank" href="https://gitee.com/zlhy7/znote">
         Powered by
-        <a href="https://gitee.com/zlhy7/zlhyBlog"><b>zlhyblog</b></a>
+        <a href="https://gitee.com/zlhy7/znote"><b>zlhyblog</b></a>
       </a>
     </span>
     <span v-if="$themeConfig.record">
