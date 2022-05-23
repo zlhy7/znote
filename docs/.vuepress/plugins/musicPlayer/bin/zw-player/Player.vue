@@ -182,12 +182,12 @@ export default {
         }
     },
     mounted() {
-        var check_flag = this.check();
-        if(!check_flag) {
-            let musicPlayer = document.getElementById("musicPlayer");
-            musicPlayer.style.display='none';
-            return;
-        }
+        // var check_flag = this.check();
+        // if(!check_flag) {
+        //     let musicPlayer = document.getElementById("musicPlayer");
+        //     musicPlayer.style.display='none';
+        //     return;
+        // }
         if(1==Math.floor(Math.random()*10+1)){
             let path = this.$route.path
             if(path != '/' ) return
