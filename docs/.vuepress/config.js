@@ -5,7 +5,7 @@ const plugins = require('./config/plugins/')
 
 module.exports = {
   // dest: 'gb-pages',//打包目录
-  base: '/',
+  base: '/znote/',
   title: "上善若水的成长之路",
   description: '上善若水。水善利万物而不争，处众人之所恶，故几于道。',
   head: [
