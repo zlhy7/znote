@@ -125,7 +125,10 @@ import state1 from './img/state_1.png'
 import talkicon1 from './img/talkicon1.png'
 import talkicon2 from './img/talkicon2.png'
 import $ from 'jquery'
-const myMusicId = 3068309305
+//可通过 接口查询音乐id修改默认背景音乐
+// https://cloud-music-api-lyart.vercel.app/search?keywords=%E6%B6%A9%E6%B6%A9%E8%8A%B1%E5%AD%A3
+// const myMusicId = 187398
+const myMusicId = 27907778
 export default {
     name:'Player',
     data() {

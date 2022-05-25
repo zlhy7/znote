@@ -48,6 +48,7 @@ isShowComments: true
 
 - 博客：[https://zlhy7.gitee.io/znote](https://zlhy7.gitee.io/znote)
 - Github：[https://github.com/zlhy7](https://github.com/zlhy7)
+- Gitee：[https://gitee.com/zlhy7](https://gitee.com/zlhy7)
 
 ## 部落
 
