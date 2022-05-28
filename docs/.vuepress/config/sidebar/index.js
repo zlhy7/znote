@@ -91,6 +91,13 @@ module.exports = {
             children: [
                 'essay/20190928'
             ]
+        },
+        {
+            title: '沙福林的随手代码',
+            collapsable: true,
+            children: [
+                'handCode/cjdPersonalityList'
+            ]
         }
 
     ]
