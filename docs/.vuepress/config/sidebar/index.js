@@ -98,7 +98,13 @@ module.exports = {
             children: [
                 'handCode/cjdPersonalityList'
             ]
+        },
+        {
+            title: '安装教程',
+            collapsable: true,
+            children: [
+                'notes/installation_tutorial/jdk安装'
+            ]
         }
-
     ]
 }
