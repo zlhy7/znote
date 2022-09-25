@@ -85,13 +85,13 @@ module.exports = {
                 'backend/spring_application_json.md',
             ]
         },
-        {
-            title: '随笔 Essay',
-            collapsable: true,
-            children: [
-                'essay/20190928'
-            ]
-        },
+        // {
+        //     title: '随笔 Essay',
+        //     collapsable: true,
+        //     children: [
+        //         'essay/20190928'
+        //     ]
+        // },
         {
             title: '沙福林的随手代码',
             collapsable: true,
