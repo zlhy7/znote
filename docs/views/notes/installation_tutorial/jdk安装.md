@@ -4,6 +4,7 @@ date: 2022-05-28 13:54:19
 tags:
 - Java
 - 安装教程
+- jdk
 categories:
 - 安装教程
 isShowComments: false

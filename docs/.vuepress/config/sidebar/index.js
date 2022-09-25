@@ -105,6 +105,13 @@ module.exports = {
             children: [
                 'notes/installation_tutorial/jdk安装'
             ]
+        },
+        {
+            title: '常用站点',
+            collapsable: true,
+            children: [
+                'website/officialDownload'
+            ]
         }
     ]
 }
