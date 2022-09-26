@@ -110,7 +110,8 @@ module.exports = {
             title: '常用站点',
             collapsable: true,
             children: [
-                'website/officialDownload'
+                'website/officialDownload',
+                'website/gitToolAddress'
             ]
         }
     ]
