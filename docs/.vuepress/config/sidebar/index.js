@@ -106,7 +106,9 @@ module.exports = {
                 'notes/installation_tutorial/jdk',
                 'notes/installation_tutorial/nodejs',
                 'notes/installation_tutorial/git',
-                'notes/installation_tutorial/linux安装mwget'
+                'notes/installation_tutorial/linux安装mwget',
+                'notes/installation_tutorial/linux安装glibc',
+                'notes/installation_tutorial/linux安装docker'
             ]
         },
         {
