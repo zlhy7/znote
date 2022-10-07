@@ -21,24 +21,12 @@ reward: true
   link: https://www.recoluan.com
   bgColor: 'rgb(165 216 243)'
   textColor: '#6854A1'
-#- name: 青灯有味
-#  desc: 闹里有钱，静外安身。
-#  avatar: https://zscnb.gitee.io/logo.png
-#  link: https://zscnb.gitee.io/
-#  bgColor: '#FCE5BF'
-#  textColor: '#7B2532'
 - name: znote
   desc: 荷尽已无擎雨盖，菊残犹有傲霜枝。
   avatar: http://zlhy7.gitee.io/znote/vuepress/head-fish.jpg
   link: http://zlhy7.gitee.io/znote/
   bgColor: '#FCDBA0'
   textColor: '#A05F2C'
-#- name: 有梦想的咸鱼
-#  desc: 我不能克制我记几。
-#  avatar: https://blog.liudongyang.top/head-logo.gif
-#  link: https://blog.liudongyang.top
-#  bgColor: '#1abc9c'
-#  textColor: '#c0392b'
 - name: Evan's blog
   avatar: https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg
   desc: 积跬步以至千里，致敬每个爱学习的你。
