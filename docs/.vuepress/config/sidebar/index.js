@@ -103,7 +103,10 @@ module.exports = {
             title: '安装教程',
             collapsable: true,
             children: [
-                'notes/installation_tutorial/jdk安装'
+                'notes/installation_tutorial/jdk',
+                'notes/installation_tutorial/nodejs',
+                'notes/installation_tutorial/git',
+                'notes/installation_tutorial/linux安装mwget'
             ]
         },
         {

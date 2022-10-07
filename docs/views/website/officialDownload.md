@@ -144,16 +144,19 @@ isShowComments: false
 - `官`[谷歌浏览器](https://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html?standalone=1&platform=win64)
 - `官`[火狐浏览器](http://ftp.mozilla.org/pub/firefox/releases/)
 - `官`[EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
+### 谷歌驱动
+- [淘宝代理仓库](https://npm.taobao.org/mirrors/chromedriver/)
 ### IDE
 - `官`[idea历史版本](https://www.jetbrains.com/idea/download/other.html) 个人推荐2022.3.4
   - `官直`[idea2022.3.3](https://download.jetbrains.com/idea/ideaIU-2020.3.3.exe) \| [激活工具](https://zlhy7.lanzoul.com/iVuP809bsgqb)
-- `官`[vscode](https://code.visualstudio.com/Download) \| [蓝奏云](https://zlhy7.lanzoul.com/im7tj015p0fc)
+- `官`[vscode](https://code.visualstudio.com/Download) \| `官直`[VSCodeUserSetup-x64-1.72.0](https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-x64-1.72.0.exe) \| [蓝奏云](https://zlhy7.lanzoul.com/im7tj015p0fc)
 - `官`[visual studio 2022](https://docs.microsoft.com/zh-cn/visualstudio/releases/2022/release-history)
 >  vs2022激活码：<br/>
 >  Pro:TD244-P4NB7-YQ6XK-Y8MMM-YWV2J<br/>
 >  Enterprise:VHF9H-NXBBB-638P6-6JHCY-88JWH<br/>
 >  激活码来源 https://www.jb51.net/article/230816.htm
 - `官`[sts版eclipse](https://spring.io/tools)
+- `官`[hbuildx](https://www.dcloud.io/hbuilderx.html) \| `官直`[HBuilderX.3.6.4.20220922](https://download1.dcloud.net.cn/download/HBuilderX.3.6.4.20220922.zip)
 ### 连接工具
 - navicat
   - [navicat15](http://download.navicat.com.cn/download/navicat150_premium_cs_x64.exe) \| [蓝奏云](https://zlhy7.lanzouo.com/i8mgzlc)
